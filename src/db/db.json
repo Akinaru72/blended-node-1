@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Generic Cotton Hat",
+    "price": "78.59",
+    "category": "Shoes"
+  },
+  {
+    "name": "Gorgeous Rubber Computer",
+    "price": "406.49",
+    "category": "Automotive"
+  },
+  {
+    "name": "Ergonomic Concrete Soap",
+    "price": "448.95",
+    "category": "Automotive"
+  },
+  {
+    "name": "Incredible Wooden Bike",
+    "price": "718.29",
+    "category": "Health"
+  },
+  {
+    "name": "Handcrafted Marble Fish",
+    "price": "566.59",
+    "category": "Jewelry"
+  },
+  {
+    "name": "Sleek Metal Chicken",
+    "price": "311.19",
+    "category": "Automotive"
+  },
+  {
+    "name": "Awesome Rubber Computer",
+    "price": "422.69",
+    "category": "Health"
+  },
+  {
+    "name": "Ergonomic Concrete Soap",
+    "price": "907.49",
+    "category": "Baby"
+  },
+  {
+    "name": "Rustic Ceramic Fish",
+    "price": "272.09",
+    "category": "Shoes"
+  },
+  {
+    "name": "Ergonomic Rubber Towels",
+    "price": "142.39",
+    "category": "Automotive"
+  },
+  {
+    "name": "Bespoke Bamboo Tuna",
+    "price": "622.09",
+    "category": "Beauty"
+  },
+  {
+    "name": "Small Marble Chair",
+    "price": "105.69",
+    "category": "Books"
+  },
+  {
+    "name": "Small Gold Chair",
+    "price": "455.75",
+    "category": "Grocery"
+  }
+]
